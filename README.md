@@ -20,7 +20,7 @@ This project demonstrates the deployment of a cloud-based Admissions & Records S
 - Policy-based resource control
 
 ## Screenshots
-(Add your Azure screenshots here.)
+
 
 ## Author
 Harsha Vardhan
